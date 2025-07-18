@@ -49,6 +49,7 @@ A deep learning model that analyzes chest X-ray images to detect COVID-19. Uses 
 
 - `app.py` - Web application
 - `covid_xray_model.keras` - Trained model
+- `model_training.ipynb` - Model training notebook
 - `model_analysis.ipynb` - Performance analysis
 - `requirements.txt` - Dependencies
 
